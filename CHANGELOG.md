@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/kircherlab/MPRAlib/compare/v0.2.2...v0.2.3) (2025-03-03)
+
+
+### Features
+
+* adding qc metric notebook ([ab17436](https://github.com/kircherlab/MPRAlib/commit/ab17436634d4b4ea83a788d3583531db96cd562f))
+
 ## [0.2.2](https://github.com/kircherlab/MPRAlib/compare/v0.2.1...v0.2.2) (2025-02-27)
 
 
